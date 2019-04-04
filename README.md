@@ -1,5 +1,5 @@
-# Arduino-Climate-Enviroment-Calcualtor
-Climate Enviroment Calcualtor Based on Arduino
+# Arduino-Climate-Environment-Calcualtor
+Climate Environment Calcualtor Based on Arduino
 
 大气环境检测仪的主要技术在于整合元器件和传感器使其正常并且准确工作以及反馈数据。在大气环境检测仪的工程下主要对以下方面进行了研究：
 
